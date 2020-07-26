@@ -8,4 +8,4 @@ Ejecuta `ng serve` para un servidor de desarrollo. Navegue a `http: // localhost
 
 ## Produccion
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Ejecute `ng build` para compilar el proyecto. Los artefactos de compilación se almacenarán en el directorio `dist /`. Use el indicador `--prod` para una compilación de producción.
